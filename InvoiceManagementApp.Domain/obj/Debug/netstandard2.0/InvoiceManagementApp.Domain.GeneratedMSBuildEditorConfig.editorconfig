@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = InvoiceManagementApp.Domain
+build_property.ProjectDir = e:\train\InvoiceManagementApp\InvoiceManagementApp.Domain\

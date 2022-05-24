@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lpa/zRtS1sOlRsfS4JDAOOahbBLXoy56k4m8hkYcl26plFBKjbp0xDILz7l3GxmyAAh2pGH6hIZGIG6PiqrEjw==",
+  "success": true,
+  "projectFilePath": "E:\\train\\InvoiceManagementApp\\InvoiceManagementApp.Domain\\InvoiceManagementApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

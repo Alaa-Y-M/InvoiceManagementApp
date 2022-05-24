@@ -1,0 +1,14 @@
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\bin\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.deps.json
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\bin\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.dll
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\obj\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.AssemblyInfoInputs.cache
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\obj\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.AssemblyInfo.cs
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\bin\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.pdb
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\obj\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\obj\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.dll
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\obj\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.pdb
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\obj\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.csprojAssemblyReference.cache
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\bin\Debug\netcoreapp3.1\InvoiceManagementApp.Application.dll
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\bin\Debug\netcoreapp3.1\InvoiceManagementApp.Domain.dll
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\bin\Debug\netcoreapp3.1\InvoiceManagementApp.Application.pdb
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\bin\Debug\netcoreapp3.1\InvoiceManagementApp.Domain.pdb
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Infrastructure\obj\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.csproj.CopyComplete

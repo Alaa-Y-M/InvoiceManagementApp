@@ -1,0 +1,9 @@
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Domain\bin\Debug\netstandard2.0\InvoiceManagementApp.Domain.deps.json
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Domain\bin\Debug\netstandard2.0\InvoiceManagementApp.Domain.dll
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Domain\bin\Debug\netstandard2.0\InvoiceManagementApp.Domain.pdb
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Domain\obj\Debug\netstandard2.0\InvoiceManagementApp.Domain.AssemblyInfoInputs.cache
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Domain\obj\Debug\netstandard2.0\InvoiceManagementApp.Domain.AssemblyInfo.cs
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Domain\obj\Debug\netstandard2.0\InvoiceManagementApp.Domain.csproj.CoreCompileInputs.cache
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Domain\obj\Debug\netstandard2.0\InvoiceManagementApp.Domain.dll
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Domain\obj\Debug\netstandard2.0\InvoiceManagementApp.Domain.pdb
+E:\train\InvoiceManagementApp\InvoiceManagementApp.Domain\obj\Debug\netstandard2.0\InvoiceManagementApp.Domain.csprojAssemblyReference.cache
